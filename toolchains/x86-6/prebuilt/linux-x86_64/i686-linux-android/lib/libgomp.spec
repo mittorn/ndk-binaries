@@ -1,0 +1,1 @@
+../../../../../arm-linux-androideabi-6/prebuilt/linux-x86_64/arm-linux-androideabi/lib/thumb/libgomp.spec
