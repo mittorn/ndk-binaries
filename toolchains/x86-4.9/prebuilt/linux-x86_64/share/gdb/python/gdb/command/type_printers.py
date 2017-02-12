@@ -1,0 +1,1 @@
+../../../../../../../../arm-linux-androideabi-4.9/prebuilt/linux-x86_64/share/gdb/python/gdb/command/type_printers.py
