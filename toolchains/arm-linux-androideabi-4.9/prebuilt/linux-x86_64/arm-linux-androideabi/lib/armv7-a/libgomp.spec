@@ -1,1 +1,0 @@
-../thumb/libgomp.spec
