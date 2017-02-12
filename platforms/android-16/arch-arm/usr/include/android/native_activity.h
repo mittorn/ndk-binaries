@@ -1,0 +1,1 @@
+../../../../../android-13/arch-arm/usr/include/android/native_activity.h
